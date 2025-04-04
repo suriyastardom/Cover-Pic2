@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'CustomFont';
     src: url('custom-font.ttf') format('truetype');
-    font-family: 'Osake';
-    src: url('osake.ttf') format('truetype');
+font-family: 'Osake';
+src: url('Osake.woff') format('truetype')
 }
 
 * {
